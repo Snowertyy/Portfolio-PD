@@ -186,6 +186,9 @@ button {
     border: none;
 }
 
+button:focus{
+    color: #344FA4;
+}
 h3 {
     font-size: var(--font-h3-size);
     color: var(--font-h2-color);
