@@ -1,0 +1,65 @@
+:root {
+    /* PRIMARY*/
+    --background-color: rgb(33,37,41,100%);
+    --button-color: #ffffff;
+    --button-icon: #000;
+    --button-color-hover: #2a4aae;
+    --button-color-pressed: #027FDB;
+    --icon-color: #283238;
+    --icon-color-hover: #ffffff;
+    --background-card: rgba(0, 0, 0, 0.19);
+    --background-chip: #f1f3f3;
+    /* H1*/
+    --font-family-primary: 'Inter', sans-serif;
+    --font-weight-primary: 300;
+    --font-style: normal;
+    --font-line-height: 3.5rem;
+    --font-h1-size: 2.625rem;
+    --text-primary: #ffffff;
+    /* H2*/
+    --font-h2-size: 2rem;
+    --font-h2-color: #ffffff;
+    --font-weight: 600;
+    /* CHIP */
+    --font-family-chip: 'Inter', sans-serif;
+    --font-chip-size: 1rem;
+    --font-chip-color: #283238;
+    --background-chip-color:#F1f3f3;
+
+    /* NAV */
+    --nav-color-normal: #ffffff;
+    --nav-color-hover: #2a4aae;
+    --nav-color-pressed: #027FDB;
+
+    /* SECONDARY*/
+    --text-secondary: #283238;
+
+    /* P info */
+    --font-p-size: 1rem;
+    --font-p-color: #ffffff;
+    --font-p-weight: 300;
+    --font-p-lineHeight: 1.5rem;
+    --font-p-family: 'Inter', sans-serif;
+
+    /* ICONS */
+    --icon-color-outlined:#ffffff;
+    --icon-width: 1.5rem;
+    --icon-height: 1.5rem;
+
+    /* H3 */
+    --font-h3-size: 1.5rem;
+    --font-h3-color: #ffffff;
+    --font-weight: 600;
+
+    /*BTN PRIMARY*/
+    --color-font-btn: rgb(68,68,68,1);
+    --text-align-btn: center;
+    --font-family-btn: 'Inter', sans-serif;
+    --font-size-btn: 1rem;
+    --font-height-btn: 1.5rem;
+
+    --btn-radius:2rem;
+    --btn-backgroud: #fff;
+
+}
+
