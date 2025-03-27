@@ -1,5 +1,5 @@
-const redirectEl = document.getElementById("redirect-El");
+const redirect = document.getElementById("redirect-El");
 
-redirectEl.addEventListener("click", function(){
-console.log("si funciono we");
+redirect.addEventListener("click", function(){
+    console.log("fui clickeado");
 });
